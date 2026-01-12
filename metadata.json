@@ -1,0 +1,8 @@
+{
+  "name": "Paulo Jorge – Salão & Barbearia",
+  "description": "Uma aplicação completa para marcações online de serviços de cabeleireiro e barbearia em Portugal, com gestão de profissionais e horários.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
